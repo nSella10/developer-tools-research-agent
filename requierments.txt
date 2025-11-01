@@ -1,0 +1,7 @@
+firecrawl-python
+langchain
+langchain-openai
+langgraph
+pydantic
+python-dotenv
+
